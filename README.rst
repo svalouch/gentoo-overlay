@@ -12,3 +12,8 @@ See ``LICENSE`` for the repository license. Note that some files may be licensed
 Contents
 ********
 
+============== ================================================================
+Package        Description
+============== ================================================================
+x11-misc/slock upstream slock with selected patches found on the slock homepage
+============== ================================================================
